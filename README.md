@@ -13,6 +13,9 @@
 2. 在 Typecho 管理后台 -> 插件，启用 LinkGo。
 3. 启用后插件会尝试注册 `/go/[target]` 路由（不同 Typecho 版本可能差异），启用失败请手动刷新插件或在 Typecho 后台禁用再启用一次。
 
+## 更多主题请查看： https://blog.lhl.one/artical/949.html
+欢迎投稿，请提PR
+
 ## 主题目录结构与约定
 在插件目录下放置主题：
 ```
