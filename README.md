@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/lhl77/Typecho-Plugin-LinkGo)](https://github.com/lhl77/Typecho-Plugin-LinkGo/issues)
 [![License](https://img.shields.io/github/license/lhl77/Typecho-Plugin-LinkGo)](https://github.com/lhl77/Typecho-Plugin-LinkGo/blob/master/LICENSE)
 
-![](https://bu.dusays.com/2026/02/10/698b3c330b864.jpg)
+![](https://bu.dusays.com/2026/02/11/698c59e291057.jpg)
 
 跳转页模板位于插件目录：
 `LinkGo/page/themes/<ThemeName>/template.php` 与 `style.css`。
